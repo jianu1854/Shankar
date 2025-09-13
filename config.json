@@ -20,14 +20,14 @@
     "FACEBOOK_ADMIN": "https://m.facebook.com/profile.php?id=61577191230420",
     "ZALO_ADMIN": "0xxxxx",
     "ADMIN_NAME": "SHANKAR SINGHANIYA",
-    "BOTNAME": "PIKA PI",
-    "PREFIX": ".",
+    "BOTNAME": "𝗕σt",
+    "PREFIX": "#",
     "ADMINBOT": [
-        "61577191230420",
+        "100071943783967",
         ""
     ],
     "NDH": [
-        "61577191230420"
+        "100071943783967"
     ],
     "DATABASE": {
         "sqlite": {
